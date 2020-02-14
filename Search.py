@@ -83,7 +83,7 @@ class searchBot:
 
 
 
-JobSearch = searchBot("asgaonka","atit.Asurite12345")
+JobSearch = searchBot("username","password")
 
 #Call without any arguements
 JobSearch.login()
